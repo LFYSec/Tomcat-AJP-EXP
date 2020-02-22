@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tomcat-coyote-7.0.39">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../tomcat-coyote-7.0.39.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

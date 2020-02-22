@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="exp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/exp_jar</output-path>
+    <root id="archive" name="exp.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="exp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.3.1/commons-cli-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../tomcat-coyote-7.0.39.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-util/8.5.34/tomcat-util-8.5.34.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-juli/7.0.29/tomcat-juli-7.0.29.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
